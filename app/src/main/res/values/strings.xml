@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplicationFinal</string>
+    <string name="col1">Titulo</string>
+    <string name="col2">Descripcion</string>
+    <string name="col3">Imagen</string>
+    <string name="Row1">Avengers</string>
+    <string name="Row1.2">Los vengadores mas fuertes del mundo se reunen para matar a thanos</string>
+</resources>
